@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UnitvsIntegrationTesting.Tests/UnitvsIntegrationTesting.Tests.csproj" />
+  <Project Path="UnitvsIntegrationTesting/UnitvsIntegrationTesting.csproj" />
+</Solution>
